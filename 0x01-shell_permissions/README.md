@@ -11,3 +11,4 @@
 10-mirror_permissions mirrors permissions for olleh file to hello file
  11-directories_permissions adds execute permission to all subdirectories of the current directory for all parties
 12-directory_permissions creates a directory called my_dir with permissions 751
+13-change_group changes the group owner to school for the file hello
