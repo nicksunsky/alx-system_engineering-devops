@@ -7,3 +7,4 @@
 6-multiple_permissions adds different permissions for the owner, group owner and other users
 7-everybody adds execution permission to everyone
 8-James_Bond gives no permissions to owner and group but all to other users
+9-ohn_Doe sets various permissions to hello file
