@@ -8,3 +8,4 @@
 7-everybody adds execution permission to everyone
 8-James_Bond gives no permissions to owner and group but all to other users
 9-ohn_Doe sets various permissions to hello file
+10-mirror_permissions mirrors permissions for olleh file to hello file
