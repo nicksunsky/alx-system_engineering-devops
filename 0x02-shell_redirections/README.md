@@ -7,3 +7,4 @@
 6-third_line displays the third line of the file iacta
 7-file creates a file with special characters
 8-cwd_state writes the contents of the ls -la command
+9-duplicate_last_line duplicates the last line of the file iacta
