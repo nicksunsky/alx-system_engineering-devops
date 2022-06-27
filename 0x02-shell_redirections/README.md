@@ -6,3 +6,4 @@
 5-firstlines displays the first 10 lines of /etc/passwd
 6-third_line displays the third line of the file iacta
 7-file creates a file with special characters
+8-cwd_state writes the contents of the ls -la command
