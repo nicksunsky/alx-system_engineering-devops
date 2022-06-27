@@ -8,3 +8,4 @@
 7-file creates a file with special characters
 8-cwd_state writes the contents of the ls -la command
 9-duplicate_last_line duplicates the last line of the file iacta
+10-no_more_js deletes all regular files with a .js extension present in the current directory and all its subfolders
