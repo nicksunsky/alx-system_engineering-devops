@@ -1,2 +1,3 @@
 0-alias creates a script that creats an alias ls with the value rm*
 1-hello_you prints hello current user
+ 2-path adds /action to PATH and should be the last directory the shell looks into when looking for a program
