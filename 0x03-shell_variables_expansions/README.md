@@ -3,3 +3,4 @@
  2-path adds /action to PATH and should be the last directory the shell looks into when looking for a program
 3-paths creates a script that counts the number of ditrectories in the PATH
 4-global_variables creates a script that lists environment variables
+5-local_variables lists all local variables and environment variables, and functions
