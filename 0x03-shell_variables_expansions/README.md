@@ -9,3 +9,4 @@
 8-true_knowledge prints the result of addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 9-divide_and_rule prints the result of POWER didvide by DIVIDE , both of which are environmnt variables
 10-love_exponent_breath displays the result of BREATH to the power LOV power BREATH
+11-binary_to_decimal converts a number from base 2 to base 10
